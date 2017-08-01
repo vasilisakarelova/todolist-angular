@@ -1,0 +1,30 @@
+{
+  "name": "todolistangular",
+  "version": "1.0.0",
+  "description": "Todo List build on Angular 1.5.9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasilisakarelova/todolist-angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasilisakarelova/todolist-angular/issues"
+  },
+  "homepage": "https://github.com/vasilisakarelova/todolist-angular#readme",
+  "devDependencies": {
+    "bower": "1.7.7",
+    "http-server": "0.9.0",
+    "jasmine-core": "2.4.1",
+    "karma": "0.13.22",
+    "karma-chrome-launcher": "0.2.3",
+    "karma-firefox-launcher": "0.1.7",
+    "karma-jasmine": "0.3.8",
+    "karma-junit-reporter": "0.4.1",
+    "protractor": "4.0.9"
+  }
+}

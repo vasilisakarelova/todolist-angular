@@ -1,0 +1,24 @@
+{
+  "name": "todolistangular",
+  "description": "Todo List build on Angular 1.5.9",
+  "main": "index.js",
+  "authors": [
+    "vasilisa <dr.mandarine@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/vasilisakarelova/todolist-angular",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.9",
+    "angular-route": "1.5.9",
+    "angular-loader": "1.5.9",
+    "angular-mocks": "1.5.9",
+    "html5-boilerplate": "^5.3.0"
+  }
+}
